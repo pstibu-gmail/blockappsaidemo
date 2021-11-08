@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "blockappsaidemo",
+    "slug": "blockappsaidemo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "blockappsaidemo"
+}
